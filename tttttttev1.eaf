@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-26T21:49:10+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/Unomax/Downloads/document_5301096013954556270.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./document_5301096013954556270.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:ec9ed530-e040-43b4-b02f-a69d6d835830</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">22</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="9260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="9520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="16520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="16800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="21330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="21490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="27970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="28080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="34530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="34550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="37400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="37450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="43800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="44200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="51130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="51160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="53790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="54220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="55900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="56050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="63650"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="tttttttev" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@p1960m" TIER_ID="text@p1960m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> а теперь / х... подумаем / какие же корни / вот-с / э... того а... / искусства слова / которыми мы владеем //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>ну корни уходят в античность / как  / очень многое / в современной европейской цивилизации //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>ну возьмем / театр даже / его / схему театра //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>возьмем драматургию // с ее / основными жанрами / трагедия / комедия / драма //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>их структуру // возьмем архитектурные стили классические // и так далее и так далее //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>и все это корнями уходит в античность //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>ну и конечно уже переосмыслилось / э за те эпохи которые э шли / за / древним миром //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>и вот почему же / именно античность / явилась колыбелью / ораторского / искусства? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>эм // современного / человечества //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>по двум причинам //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>первая причина в том / что / м / античная культура / по преимуществу / устная культура! //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="tttttttev" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@p1960m"
+        PARTICIPANT="@p1960m" TIER_ID="transl@p1960m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a12" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>and now / h... let's think about / what are the roots / of / eh... that ah... / art of the word / that we own //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>well te roots go back to antiquity / like / lots of thungs / in modern European civilization //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>well for example / the theatrical art actually / its / parts of theatrical art</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a15" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>for example dramaturgy // with its / component genres / tragedy / comedy / drama //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a16" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>its structure // for example classical architectural styles // and so on and so and so on //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a17" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>and it's all rooted in antiquity //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>well and of course it was rethought / eh during the eras that eh have been following / after / the ancient world //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a19" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>and what is the reason why / exactly antiquity / is the cradle / of oratory / art? //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>hm // of morden / humanity //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a21" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>for two reasons //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
